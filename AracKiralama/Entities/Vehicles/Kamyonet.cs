@@ -1,4 +1,4 @@
-﻿namespace AracKiralama.Entities
+﻿namespace AracKiralama.Entities.Vehicles
 {
     public class Kamyonet : Arac
     {
